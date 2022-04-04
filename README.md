@@ -3,7 +3,6 @@
 - I’m Mechatronic Engineer
 - 👀 I’m interested in web programming
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
 
 
 <!---
